@@ -2,7 +2,7 @@ from telegram import *
 from telegram.ext import * 
 from requests import *
 
-updater = Updater(token="2002660437:AAHmXhLwNJYfc0FmADZl4IImjcHVtvnhYww")
+updater = Updater(token="5895771242:AAF9ae-BAaQERXdyiyOjkNa1-hnqoA1Orac")
 dispatcher = updater.dispatcher
 
 randomPeopleText = "Random Person"
